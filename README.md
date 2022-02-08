@@ -1,1 +1,1 @@
-# hornet Old Configs
+# Hornet Old Configs
